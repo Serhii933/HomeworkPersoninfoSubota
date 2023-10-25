@@ -1,9 +1,9 @@
-public class person {
+public class Person {
     String name;
     String surname;
     String city;
     String phone;
-    public person (String name,String surname,String city,String phone){
+    public Person (String name,String surname,String city,String phone){
         this.name = name;
         this.surname = surname;
         this.city = city;
